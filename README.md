@@ -1,3 +1,14 @@
+# 旺财记账 React yarn create-react-app@latest
+
+## 环境
+
+- `node 18`
+- `yarn 1.22.19`
+- 保持 `react`、`react-dom`、`"@types/react`、`@types/react` 大版本号一致
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
